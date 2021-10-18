@@ -33,6 +33,6 @@
 </div>
 
 <div align ="center">
-  [![Luciano's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucianoCrocco)](https://github.com/anuraghazra/github-readme-stats)
+  [![Luciano's GitHub stats](https://github-readme-stats-LucianoCrocco.vercel.app/api?username=LucianoCrocco)](https://github.com/anuraghazra/github-readme-stats)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucianoCrocco)](https://github.com/anuraghazra/github-readme-stats)
 </div>
