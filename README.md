@@ -32,6 +32,5 @@
   </p>
 </div>
 
-<div align ="center">
-  [![Top Langs](https://github-readme-stats-LucianoCrocco.vercel.app/api/top-langs/?username=LucianoCrocco)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+
+[![Top Langs](https://github-readme-stats-LucianoCrocco.vercel.app/api/top-langs/?username=LucianoCrocco)](https://github.com/anuraghazra/github-readme-stats)
