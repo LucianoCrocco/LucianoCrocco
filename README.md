@@ -1,8 +1,8 @@
 <div align="center">
   <h1>👋 Hi, I’m Luciano<h1>
   <h2>I'm currently studying at Univerisdad Téconlogica Nacional (UTN) - Tecnicatura Universitaria en Programación<h2>
-  <h4>I'm currently learning Full Stack Web Development in UpSkill <a href="https://upskillcourses.com/courses/essential-web-developer-course"/>[-> Course Web Site]<h4>
-  <h4>Looking foward to learn Python at Udemy's Universidad Python course <a href="https://www.udemy.com/course/universidad-python-desde-cero-hasta-experto-django-flask-rest-web/"/>[-> Course Web Site]<h4>
+  <h4>I'm currently learning Full Stack Web Development in UpSkill <link href="https://upskillcourses.com/courses/essential-web-developer-course">[-> Course Web Site]</link><h4>
+  <h4>Looking foward to learn Python at Udemy's Universidad Python course <a href="https://www.udemy.com/course/universidad-python-desde-cero-hasta-experto-django-flask-rest-web/">[-> Course Web Site]</a><h4>
 </div>
 
 <div align="left">
