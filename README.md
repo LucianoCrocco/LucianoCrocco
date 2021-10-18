@@ -33,4 +33,6 @@
 </div>
 
 
-[![Top Langs](https://github-readme-stats-LucianoCrocco.vercel.app/api/top-langs/?username=LucianoCrocco)](https://github.com/anuraghazra/github-readme-stats)
+<div align= "center">
+  <iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?LucianoCrocco" frameborder="0"></iframe>
+</div>
