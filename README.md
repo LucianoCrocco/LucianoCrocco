@@ -1,5 +1,6 @@
 <div align="center">
   <h1>👋 Hi, I’m Luciano<h1>
+  <h3><h3>
   <h3>I'm currently studying at Univerisdad Téconlogica Nacional (UTN) - Tecnicatura Universitaria en Programación<h3>
   <h4>I'm currently learning Full Stack Web Development in UpSkill <a href="https://upskillcourses.com/courses/essential-web-developer-course">[-> Course Web Site]</a><h4>
   <h4>Looking foward to learn Python at Udemy's Universidad Python course <a href="https://www.udemy.com/course/universidad-python-desde-cero-hasta-experto-django-flask-rest-web/">[-> Course Web Site]</a><h4>
@@ -31,3 +32,19 @@
     <a href="https://slack.com/" target="_blank"><img align="left" alt="Slack" width="50" height="50" src="https://www.vectorlogo.zone/logos/slack/slack-tile.svg"></a>
   </p>
 </div>
+    
+<br>
+<br>
+<br>
+<br>
+    
+<!--Estadisticas-->
+<div align="center">
+  <tr>
+    <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=LucianoCrocco"/></td>
+    <td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucianoCrocco&layout=compact"/></td>
+  </tr>
+</div>
+
+
+
