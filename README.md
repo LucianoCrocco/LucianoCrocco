@@ -15,7 +15,7 @@
     <a href="https://www.w3schools.com/html/html_intro.asp" target="_blank"><img align="left" alt="HTML" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"></a>
     <a href="https://www.w3schools.com/css/css_intro.asp" target="_blank"><img align="left" alt="CSS" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></a>
     <a href="https://www.w3schools.com/js/js_intro.asp" target="_blank"><img align="left" alt="JavaScript" width="50" height="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg"></a>
-    <a href="https://www.w3schools.com/sql/sql_intro.asp" target="_blank"><img align="left" alt="SQL" width="50" height="50" src="https://img.icons8.com/dotty/80/000000/sql.png"></a>
+    <a href="https://www.w3schools.com/sql/sql_intro.asp" target="_blank"><img align="left" alt="SQL" width="50" height="50" src="https://cdn-icons-png.flaticon.com/512/2772/2772123.png"></a>
     <!--Frameworks-->
     <a href="https://dotnet.microsoft.com/" target="_blank"><img align="left" alt=".NET Core" width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg"></a>
     <a href="https://www.microsoft.com/es-ar/download/details.aspx?id=30653" target="_blank"><img align="left" alt=".NET FrameWork" width="50" height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-vertical.svg"></a>
@@ -41,8 +41,8 @@
 <!--Estadisticas-->
 <div align="center">
   <tr>
-    <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=LucianoCrocco"/></td>
-    <td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucianoCrocco&layout=compact"/></td>
+    <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=LucianoCrocco&theme=chartreuse-dark"/></td>
+    <td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucianoCrocco&layout=compact&theme=chartreuse-dark&hide=MakeFile"/></td>
   </tr>
 </div>
 
