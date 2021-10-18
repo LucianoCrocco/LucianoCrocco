@@ -5,19 +5,15 @@
   <h4>I'm currently learning Full Stack Web Development in UpSkill <a href="https://upskillcourses.com/courses/essential-web-developer-course">[-> Course Web Site]<h4>
   <h4>Looking foward to learn Python at Udemy's Universidad Python course <a href="https://www.udemy.com/course/universidad-python-desde-cero-hasta-experto-django-flask-rest-web/">[-> Course Web Site]<h4>
 </div>
-
 <div align="left">
   <h2 align="center">Languages and Tools 🏅💻<h2>
   <p>
     <!--Lenguajes-->
-    <a href="https://www.cprogramming.com/" target="_blank"><img align="left" alt="C langauge" width="50" height="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg
-"></a>
-    <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img align="left" alt="C#" width="50" height="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg
-"></a>
+    <a href="https://www.cprogramming.com/" target="_blank"><img align="left" alt="C langauge" width="50" height="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg"></a>
+    <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img align="left" alt="C#" width="50" height="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg"></a>
     <a href="https://www.w3schools.com/html/html_intro.asp" target="_blank"><img align="left" alt="HTML" width="50" height="50" src="https://seeklogo.com/images/H/html5-logo-EF92D240D7-seeklogo.com.png"></a>
     <a href="https://www.w3schools.com/css/css_intro.asp" target="_blank"><img align="left" alt="CSS" width="50" height="50" src="https://seeklogo.com/images/C/css3-logo-8724075274-seeklogo.com.png"></a>
-    <a href="https://www.w3schools.com/js/js_intro.asp" target="_blank"><img align="left" alt="JavaScript" width="50" height="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg
-"></a>
+    <a href="https://www.w3schools.com/js/js_intro.asp" target="_blank"><img align="left" alt="JavaScript" width="50" height="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg"></a>
     <a href="https://www.mysql.com/" target="_blank"><img align="left" alt="SQL" width="50" height="50" src="https://w7.pngwing.com/pngs/167/148/png-transparent-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-logo-thumbnail.png"></a>
     <!--Frameworks-->
     <a href="https://dotnet.microsoft.com/" target="_blank"><img align="left" alt=".NET Core" width="50" height="50" src="https://seeklogo.com/images/1/net-core-logo-E82CE4F701-seeklogo.com.png"></a>
