@@ -31,8 +31,3 @@
     <a href="https://slack.com/" target="_blank"><img align="left" alt="Slack" width="50" height="50" src="https://www.vectorlogo.zone/logos/slack/slack-tile.svg"></a>
   </p>
 </div>
-
-
-<div align= "center">
-  <p><iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?LucianoCrocco" frameborder="0"></iframe></p>
-</div>
