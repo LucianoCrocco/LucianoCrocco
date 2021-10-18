@@ -1,10 +1,10 @@
 <div align="center">
   <h1>👋 Hi, I’m Luciano<h1>
-  <h2>20 years old 👦 | Student 👨‍🎓 | Gamer 🎮 | Developer 👨‍💻 | Sportsman ⚽🥊<h3>
-  <h2>I'm currently studying at Univerisdad Téconlogica Nacional (UTN) - Tecnicatura Universitaria en Programación<h4>
+  <h2>I'm currently studying at Univerisdad Téconlogica Nacional (UTN) - Tecnicatura Universitaria en Programación<h2>
   <h4>I'm currently learning Full Stack Web Development in UpSkill <a href="https://upskillcourses.com/courses/essential-web-developer-course">[-> Course Web Site]<h4>
   <h4>Looking foward to learn Python at Udemy's Universidad Python course <a href="https://www.udemy.com/course/universidad-python-desde-cero-hasta-experto-django-flask-rest-web/">[-> Course Web Site]<h4>
 </div>
+
 <div align="left">
   <h2 align="center">Languages and Tools 🏅💻<h2>
   <p>
@@ -26,7 +26,7 @@
     <a href="https://git-scm.com/" target="_blank"><img align="left" alt="Git" width="50" height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></a>
     <a href="https://linux.org/" target="_blank"><img align="left" alt="Linux" width="50" height="50" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"></a>
     <a href="https://ubuntu.com/" target="_blank"><img align="left" alt="Ubuntu" width="50" height="50" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg"></a>
-    <a href="https://manjaro.org/" target="_blank"><img align="left" alt="Manjaro" width="50" height="50" src="https://seeklogo.com/images/M/manjaro-logo-CF438BDF99-seeklogo.com.png"></a>
+    <a href="https://manjaro.org/" target="_blank"><img align="left" alt="Manjaro" width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Manjaro-logo.svg/256px-Manjaro-logo.svg.png"></a>
     <a href="https://www.arduino.cc/" target="_blank"><img align="left" alt="Arduino" width="50" height="50" src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg"></a>
     <a href="https://slack.com/" target="_blank"><img align="left" alt="Slack" width="50" height="50" src="https://www.vectorlogo.zone/logos/slack/slack-tile.svg"></a>
   </p>
