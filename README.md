@@ -1,13 +1,13 @@
 <div align="center">
   <h1>👋 Hi, I’m Luciano<h1>
-  <h3><h3>
-  <h3>I'm currently studying at Universidad Técnologica Nacional (UTN) - Tecnicatura Universitaria en Programación<h3>
+  
+  <h3>Actualmente estoy estudiando en la Universidad Técnologica Nacional (UTN) - Tecnicatura Universitaria en Programación<h3>
   <!--<h4>I'm currently learning Full Stack Web Development in UpSkill <a href="https://upskillcourses.com/courses/essential-web-developer-course">[-> Course Web Site]</a><h4>-->
-  <h4>Looking foward to learn Python at Udemy's Universidad Python course <a href="https://www.udemy.com/course/universidad-python-desde-cero-hasta-experto-django-flask-rest-web/">[-> Course Web Site]</a><h4>
+  <h4>Con ganas de aprender Python en el curso Universidad Python <a href="https://www.udemy.com/course/universidad-python-desde-cero-hasta-experto-django-flask-rest-web/">[-> Sitio Web del Curso]</a><h4>
 </div>
 
 <div align="left">
-  <h2 align="center">Languages and Tools 🏅💻<h2>
+  <h2 align="center">Lenguajes y Herramientas 🏅💻<h2>
   <p>
     <!--Lenguajes-->
     <a href="https://www.cprogramming.com/" target="_blank"><img align="left" alt="C langauge" width="50" height="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg"></a>
