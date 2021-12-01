@@ -3,7 +3,7 @@
   
   <h3>Actualmente estoy estudiando en la Universidad Técnologica Nacional (UTN) - Tecnicatura Universitaria en Programación<h3>
   <!--<h4>I'm currently learning Full Stack Web Development in UpSkill <a href="https://upskillcourses.com/courses/essential-web-developer-course">[-> Course Web Site]</a><h4>-->
-  <h4>Con ganas de aprender Python este verano en el curso Universidad Python <a href="https://www.udemy.com/course/universidad-python-desde-cero-hasta-experto-django-flask-rest-web/">[-> Sitio Web del Curso]</a><h4>
+  <!--<h4>Con ganas de aprender Python este verano en el curso Universidad Python <a href="https://www.udemy.com/course/universidad-python-desde-cero-hasta-experto-django-flask-rest-web/">[-> Sitio Web del Curso]</a><h4>-->
 </div>
 
 <div align="left">
