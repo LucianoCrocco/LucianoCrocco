@@ -42,7 +42,7 @@
 <div align="center">
   <tr>
     <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=LucianoCrocco&theme=chartreuse-dark"/></td>
-    <td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucianoCrocco&layout=compact&theme=chartreuse-dark&hide=MakeFile&exclude_repo=-RECURSADA-Clases-Laboratorio-Programacion-1-2020,-RECURSADA-tp_laboratorio_1,CursoIngresoJS,programacion_1_laboratorio_1,Parcial-Ingreso-Turno-Manana,open-source-cs,CursoUdemy_HTML,utn_prog_y_lab_II,programacion_2_laboratorio_2,utn_prog_y_lab_II,Curso_UpSkill_Pagina_Web,Curso_Programacion_Web_Upskill&langs_count=8"/></td>
+    <td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucianoCrocco&layout=compact&theme=chartreuse-dark&hide=MakeFile&exclude_repo=-RECURSADA-Clases-Laboratorio-Programacion-1-2020,-RECURSADA-tp_laboratorio_1,CursoIngresoJS,programacion_1_laboratorio_1,Parcial-Ingreso-Turno-Manana,open-source-cs,utn_prog_y_lab_II,programacion_2_laboratorio_2,utn_prog_y_lab_II,Curso_UpSkill_Pagina_Web,Curso_Programacion_Web_Upskill&langs_count=8"/></td>
   </tr>
 </div>
 
