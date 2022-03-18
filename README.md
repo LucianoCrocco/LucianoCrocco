@@ -1,9 +1,7 @@
 <div align="center">
-  <h1>👋 Hi, I’m Luciano<h1>
+  <h1>👋 Hola, soy Luciano<h1>
   
   <h3>Actualmente estoy estudiando en la Universidad Técnologica Nacional (UTN) - Tecnicatura Universitaria en Programación<h3>
-  <!--<h4>I'm currently learning Full Stack Web Development in UpSkill <a href="https://upskillcourses.com/courses/essential-web-developer-course">[-> Course Web Site]</a><h4>-->
-  <!--<h4>Con ganas de aprender Python este verano en el curso Universidad Python <a href="https://www.udemy.com/course/universidad-python-desde-cero-hasta-experto-django-flask-rest-web/">[-> Sitio Web del Curso]</a><h4>-->
 </div>
 
 <div align="left">
@@ -42,7 +40,7 @@
 <div align="center">
   <tr>
     <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=LucianoCrocco&theme=chartreuse-dark"/></td>
-    <td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucianoCrocco&layout=compact&theme=chartreuse-dark&hide=MakeFile&exclude_repo=-RECURSADA-Clases-Laboratorio-Programacion-1-2020,-RECURSADA-tp_laboratorio_1,CursoIngresoJS,programacion_1_laboratorio_1,Parcial-Ingreso-Turno-Manana,open-source-cs,utn_prog_y_lab_II,programacion_2_laboratorio_2,utn_prog_y_lab_II,Curso_UpSkill_Pagina_Web,Curso_Programacion_Web_Upskill&langs_count=8"/></td>
+    <td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucianoCrocco&layout=compact&theme=chartreuse-dark&hide=htmlMakeFile&exclude_repo=-RECURSADA-Clases-Laboratorio-Programacion-1-2020,-RECURSADA-tp_laboratorio_1,CursoIngresoJS,programacion_1_laboratorio_1,Parcial-Ingreso-Turno-Manana,open-source-cs,utn_prog_y_lab_II,programacion_2_laboratorio_2,utn_prog_y_lab_II,Curso_UpSkill_Pagina_Web,Curso_Programacion_Web_Upskill&langs_count=8"/></td>
   </tr>
 </div>
 
