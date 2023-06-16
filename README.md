@@ -16,6 +16,9 @@
     <a href="https://www.w3schools.com/sql/sql_intro.asp" target="_blank"><img align="left" alt="SQL" width="50" height="50" src="https://cdn-icons-png.flaticon.com/512/2772/2772123.png"></a>
     <a href="https://www.php.net/" target="_blank"><img align="left" alt="SQL" width="50" height="50" src="https://www.vectorlogo.zone/logos/php/php-icon.svg"></a>
     <br>
+    <br>
+    <br>
+    <br>
     <!--Frameworks-->
     <a href="https://dotnet.microsoft.com/" target="_blank"><img align="left" alt=".NET Core" width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg"></a>
     <a href="https://www.microsoft.com/es-ar/download/details.aspx?id=30653" target="_blank"><img align="left" alt=".NET FrameWork" width="50" height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-vertical.svg"></a>
@@ -23,6 +26,9 @@
     <a href="https://es.react.dev/" target="_blank"><img align="left" alt="React Js" width="50" height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></a>
     <a href="https://www.slimframework.com/" target="_blank"><img align="left" alt="Slim PHP" width="50" height="50" src="https://assets.stickpng.com/images/62c469bba75b8945b169670d.png"></a>
     <a href="https://mui.com/" target="_blank"><img align="left" alt="MUI" width="50" height="50" src="https://w7.pngwing.com/pngs/761/513/png-transparent-material-ui-logo.png"></a>
+    <br>
+    <br>
+    <br>
     <br>
     <!--IDE's y Herramientas-->
     <a href="https://www.eclipse.org/" target="_blank"><img align="left" alt="Eclipse" width="50" height="50" src="https://www.vectorlogo.zone/logos/eclipse/eclipse-icon.svg"></a>
