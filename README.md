@@ -1,7 +1,6 @@
 <div align="center">
   <h1>👋 Hola, soy Luciano<h1>
-  
-  <h3>Actualmente estoy estudiando en la Universidad Técnologica Nacional (UTN) - Tecnicatura Universitaria en Programación<h3>
+  <p>Actualmente estoy estudiando en la Universidad Técnologica Nacional (UTN) - Tecnicatura Universitaria en Programación<p>
 </div>
 
 <div align="left">
@@ -23,8 +22,9 @@
     <a href="https://dotnet.microsoft.com/" target="_blank"><img align="left" alt=".NET Core" width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg"></a>
     <a href="https://www.microsoft.com/es-ar/download/details.aspx?id=30653" target="_blank"><img align="left" alt=".NET FrameWork" width="50" height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-vertical.svg"></a>
     <a href="https://www.microsoft.com/es-es/sql-server/sql-server-downloads" target="_blank"><img align="left" alt="Microsoft SQL" width="50" height="50" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"></a>
+    <a href="https://learn.microsoft.com/en-us/ef/" target="_blank"><img align="left" alt="Entity Framework" width="50" height="50" src="https://plugins.jetbrains.com/files/18147/359321/icon/pluginIcon.svg"></a>
     <a href="https://es.react.dev/" target="_blank"><img align="left" alt="React Js" width="50" height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></a>
-    <a href="https://www.slimframework.com/" target="_blank"><img align="left" alt="Slim PHP" width="50" height="50" src="https://assets.stickpng.com/images/62c469bba75b8945b169670d.png"></a>
+    <a href="https://www.slimframework.com/" target="_blank"><img align="left" alt="Slim PHP" width="50" height="50" src="https://pbs.twimg.com/profile_images/710555987032350723/GDHlxO_z_400x400.jpg"></a>
     <a href="https://mui.com/" target="_blank"><img align="left" alt="MUI" width="50" height="50" src="https://w7.pngwing.com/pngs/761/513/png-transparent-material-ui-logo.png"></a>
     <br>
     <br>
@@ -43,6 +43,12 @@
   </p>
 </div>
     
+<div align="left">
+  <h2 align="center">Enlaces de Interes<h2>
+  <a href="https://gitlab.com/LucianoCrocco" target="_blank"><img align="left" alt="GitLab" width="25" height="25" src="https://gitlab.com/uploads/-/system/project/avatar/278964/project_avatar.png">GitLab</a>
+  <a href="https://www.linkedin.com/in/luciano-agustin-crocco/" target="_blank"><img align="left" alt="LinkedIn" width="25" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png">LinkedIn</a>
+  <a href="https://github.com/LucianoCrocco/Personal-Projects" target="_blank"><img align="left" alt="Proyectos" width="25" height="25" src="https://icons8.com/icon/104229/project">Proyectos</a>
+</div>
 <!-- <br>
 <br>
 <br>
