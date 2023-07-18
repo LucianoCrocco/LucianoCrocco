@@ -43,11 +43,12 @@
   </p>
 </div>
     
+<br>
 <div align="left">
-  <h2 align="center">Enlaces de Interes<h2>
-  <a href="https://gitlab.com/LucianoCrocco" target="_blank"><img align="left" alt="GitLab" width="25" height="25" src="https://gitlab.com/uploads/-/system/project/avatar/278964/project_avatar.png">GitLab</a>
-  <a href="https://www.linkedin.com/in/luciano-agustin-crocco/" target="_blank"><img align="left" alt="LinkedIn" width="25" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png">LinkedIn</a>
-  <a href="https://github.com/LucianoCrocco/Personal-Projects" target="_blank"><img align="left" alt="Proyectos" width="25" height="25" src="https://icons8.com/icon/104229/project">Proyectos</a>
+  <h2 align="center">Enlaces de Interes<h2><br>
+  <a href="https://gitlab.com/LucianoCrocco" target="_blank"><img align="left" alt="GitLab" width="25" height="25" src="https://gitlab.com/uploads/-/system/project/avatar/278964/project_avatar.png">GitLab</a><br>
+  <a href="https://www.linkedin.com/in/luciano-agustin-crocco/" target="_blank"><img align="left" alt="LinkedIn" width="25" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png">LinkedIn</a><br>
+  <a href="https://github.com/LucianoCrocco/Personal-Projects" target="_blank"><img align="left" alt="Proyectos" width="25" height="25" src="[https://icons8.com/icon/104229/project](https://icons8.com/icon/25391/group-of-projects)">Proyectos</a><br>
 </div>
 <!-- <br>
 <br>
